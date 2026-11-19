@@ -9,3 +9,6 @@ ipykernel
 Flask
 boto3
 gunicorn
+Flask
+gunicorn
+mysql-connector-python
