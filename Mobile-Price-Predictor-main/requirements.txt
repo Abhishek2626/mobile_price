@@ -6,3 +6,6 @@ pandas
 sagemaker
 argparse
 ipykernel
+Flask
+boto3
+gunicorn
